@@ -1,0 +1,53 @@
+.navbar{
+    background-color: rgb(5, 5, 5);
+    padding: -120px;
+}
+.bg ul{
+    display: flex;
+
+}
+.bg ul li  {
+    /* margin: 2px -40px; */
+    padding:10px 50px;
+    list-style: none;
+}
+.bg  ul li  a{
+    text-decoration: none;
+    color: rgb(247, 245, 244);
+    /* font-size: 20px; */
+}
+.navbar {
+    display: flex;
+}
+.sigh ul li  {
+    margin-left: 400px;
+    margin-top: 20px;
+    /* padding:10px 200px ; */
+    list-style: none;
+}
+.sigh ul li a{
+    text-decoration: none;
+    color: rgb(246, 245, 243);
+    /* font-size: 20px; */
+}
+
+.h {
+    text-align: center;
+    font-size: 35px; ;
+    margin-top: -25px;
+    /* padding: 20px 400px ; */
+}
+.p {
+    text-align: center;
+    font-size: 25px;
+    margin-top: -60px;
+    color: rgb(87, 43, 2);
+}
+.Nike {
+    margin-left: 200px;
+
+}
+.Nike p{
+    font-size: 40px;
+    font-weight: bold;
+}
